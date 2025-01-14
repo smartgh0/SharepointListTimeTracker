@@ -5,7 +5,7 @@ A simple time-tracking application built with Kivy for desktop use. This app all
 Clock In/Out: Track the start and end of tasks with a simple click.
 Task Description: Enter a task description before clocking in.
 Generate Weekly PDF Summary: Create a PDF summarizing hours worked, task descriptions, and clock-in/out times.
-SharePoint Integration: Upload task data (task description, clock-in/out time, etc.) directly to a SharePoint list.
+SharePoint Integration: Upload task data (task description, clock-in/out time, etc.) directly to a SharePoint list. This means you should have your sharepoint list ready. For help on creating the list on sharepoint contact me. 
 Settings: Configure SharePoint client settings directly within the app.
 
 # Requirements
