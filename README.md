@@ -74,5 +74,6 @@ Solomon N.
 Email: smartzgh@gmail.com
 
 # License
-This project is licensed under the MIT License - see the LICENSE file for details.
+ GNU GENERAL PUBLIC LICENSE
+ Version 3, 29 June 2007
 
